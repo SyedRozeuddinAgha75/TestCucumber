@@ -27,7 +27,7 @@ public class StepDefinition {
     public void all_the_cards_on_homepage_are_displayed() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
 
-        System.out.println("cards");
+        System.out.println("cards displayed");
     }
 
 }
