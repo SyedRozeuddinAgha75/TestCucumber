@@ -28,6 +28,7 @@ public class StepDefinition {
         // Write code here that turns the phrase above into concrete actions
 
         System.out.println("cards displayed");
+        System.out.println("cards displayed");
     }
 
 }
